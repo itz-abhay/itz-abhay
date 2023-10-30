@@ -1,7 +1,7 @@
-### Hi there 👋
+  # Hey there! 👋
 
-<h1 align="center">Hi 👋, I'm Abhay</h1>
-<h3 align="center">🚀 Passionate developer </h3>
+<h1 align="center"> 👋 I'm Abhay</h1>
+<h3 align="center">🚀 Machine Learning Enthusiast </h3>
 <h3 align="center">💻 Creating innovative solutions </h3>
 <h3 align="center">🌟 Contributing to the open-source community </h3>
 <h3 align="center">📚 Enthusiastic about learning </h3>
